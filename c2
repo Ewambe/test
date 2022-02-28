@@ -1,0 +1,1 @@
+git fetch downloads the changes made to the code or file from the remote repository into a seperate branch and if you are okay with the changes, you can merge to the current branch
